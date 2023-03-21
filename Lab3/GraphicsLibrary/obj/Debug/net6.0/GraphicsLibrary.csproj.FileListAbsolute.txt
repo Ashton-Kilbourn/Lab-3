@@ -1,0 +1,12 @@
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\bin\Debug\net6.0\GraphicsLibrary.deps.json
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\bin\Debug\net6.0\GraphicsLibrary.dll
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\bin\Debug\net6.0\GraphicsLibrary.pdb
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\GraphicsLibrary.csproj.AssemblyReference.cache
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\GraphicsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\GraphicsLibrary.AssemblyInfoInputs.cache
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\GraphicsLibrary.AssemblyInfo.cs
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\GraphicsLibrary.csproj.CoreCompileInputs.cache
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\GraphicsLibrary.dll
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\refint\GraphicsLibrary.dll
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\GraphicsLibrary.pdb
+C:\Programming 2\Week3\Lab3\GraphicsLibrary\obj\Debug\net6.0\ref\GraphicsLibrary.dll
